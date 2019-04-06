@@ -15,7 +15,7 @@ with the necssary files. If you make any changes you will need to stop/start the
 
 #### Acknowledgements
 
-Base image is bult from itzg/minecraft on Dockerhub
+Base image is built from itzg/minecraft on Dockerhub
 
 ## License
 GNU GENERAL PUBLIC LICENSE
