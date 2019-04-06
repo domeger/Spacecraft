@@ -3,9 +3,10 @@ Pokemon related Minecraft server in DOCKER!
 
 ## Installing
 Install  with:
-'''
-./Dockerrun.sh
-'''
+
+```
+./Dockerun.sh
+```
 
 ### Notes
 
