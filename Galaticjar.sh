@@ -10,7 +10,7 @@ if [[-d "${PWD}/data/mods"]];
 then 
 	cd $PWD/data/mods && wget -O Pixelmon-1.12.2-7.0.5.jar https://dl.reforged.gg/2HKQPRx
 else
-	echo 'mods folder doesn't exist, the Docker container might not have populated the data folder. Start stop Docker manually'
+	echo "mods folder doesn't exist, the Docker container might not have populated the data folder. Start stop Docker manually"
 fi 
 	
 wait 
