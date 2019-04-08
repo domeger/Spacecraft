@@ -5,7 +5,7 @@ docker stop pokecraft
 wait 
 cp $PWD/server.properties.backup $PWD/data/server.properties
 
-if [[-d "$PWD/data/mods"]];
+if [[-d "${PWD}/data/mods"]];
  
 then 
 	cd $PWD/data/mods && wget -O Pixelmon-1.12.2-7.0.5.jar https://dl.reforged.gg/2HKQPRx
